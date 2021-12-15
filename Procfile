@@ -1,1 +1,1 @@
-worker: html main.html
+web: html main.html
